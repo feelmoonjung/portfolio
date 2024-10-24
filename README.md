@@ -14,20 +14,27 @@
 학습한 Html, CSS, Javascript, jsp, Python 머신러닝을 주제로 하여 웹구현 프로젝트를 진행하였습니다</br>
 [소스코드(github)](https://github.com/feelmoonjung/Project1_java_web)</br></br>
 * **기간 : 24.08.02 ~ 24.10.11** </br>
-팀빌딩 및 그라운드룰 정의</br>
-요구사항정의서, 기능정의서 작성</br>
-개발계획서, WBS, UI/UX 설계</br>
-소프트웨어 설계, 데이터 모델링</br>
-설계모듈 구현</br>
-테스트케이스 진행</br>
-결과보고서 작성</br></br>
+  * 팀빌딩 및 그라운드룰 정의</br>
+  * 요구사항정의서, 기능정의서 작성</br>
+  * 개발계획서, WBS, UI/UX 설계</br>
+  * 소프트웨어 설계, 데이터 모델링</br>
+  * 설계모듈 구현</br>
+  * 테스트케이스 진행</br>
+  * 결과보고서 작성</br></br>
 * **담당**</br>
   * **회사소개**</br>
   UI/UX 디자인</br>
   프론트엔드 (Html, CSS, Javascript)</br></br>
   * **분석사례**</br>
   UI/UX 디자인</br>
-  프론트엔드 (Html, CSS, Javascript)</br></br>
+  프론트엔드 (Html, CSS, Javascript, jsp)</br></br>
+  * **분석**</br>
+  UI/UX 디자인</br>
+  프론트엔드 (Html, CSS, Javascript, jsp)</br>
+  분석결과 메일 전송기능 구현 (smtp)</br>
+  분석 기능 구현 (Servlet, Process builder, MariaDB, Python, Scikit-learn)</br></br>
+  
+  
   
   
 
