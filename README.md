@@ -45,8 +45,42 @@
   * **분석 결과 confusion matrix 불러오기 실패**</br>
   페이지 내에서 local 폴더 접근할 수 없는 것으로 확인</br>
   base64.getEncoder() 활용하여 href 재지정하여 해결</br></br>
-
+### 2. Ultralytics YOLO 활용 object detection model 구현 (이미지 라벨링, 학습, 웹연동)</br>
+* **프로젝트 소개** </br>
+Ultralytice YOLO를 활용하여 반도체 소자 양품/불량 이미지 데이터를 학습시켜</br>
+웹에 반도체 이미지를 업로드했을때 양품/불량을 판단하는 객체탐지모델을 구현하였습니다</br>
+[소스코드](https://github.com/feelmoonjung/project2_ultralytics_yolo_object_detection)</br>
+[결과보고서](https://github.com/feelmoonjung/portfolio/blob/main/src/project2_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pptx)</br></br>
+* **기간 : 24.09.23 ~ 24.10.15** </br>
+  * 데이터 선정</br>
+  * 데이터 라벨링</br>
+  * 모델 학습</br>
+  * 웹 연동</br>
+  * 결과보고서 작성</br></br>
+* **담당 업무**</br>
+  * **데이터 라벨링** </br>
+LabelImg 활용 이미지 데이터 라벨링</br></br>
+  * **YOLO 활용 데이터 학습**</br>
+jupyter 가상환경 구축 및 이미지 데이터 학습</br>
+버전에 따른 mAP 확인을 위한 Roboflow 활용 이미지 데이터 학습</br></br>
+  * **웹연동**</br>
+Flask 활용 업로드 기능 및 웹 분석기능 구현</br></br>
+![담당소개3](https://github.com/feelmoonjung/portfolio/blob/main/images/source3.png)
+* **트러블슈팅**</br>
+  * **detect 예측 결과 내 양품/불량 외 다른 클래스 출력**</br>
+  라벨링 classes.txt 확인 결과 양품/불량 외 다른 클래스 기입 확인</br>
+  train 0~100 이미지 데이터 classes.txt 수정 및 라벨링 재진행</br></br>
+  * **predict image 미출력**</br>
+  result 저장 경로 로컬 폴더에서 가상 환경 내 폴더로 변경</br>
+  plot 객체 저장 시 이미지 형태가 아닌 array 형태로 저장 확인</br>
+  PIL - Image import 후 fromarray 활용하여 이미지로 변환</br></br>
   
+  
+  
+
+
+
+
 
 ## 4. 💡 기술
 
