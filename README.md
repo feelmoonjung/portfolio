@@ -8,6 +8,8 @@
 프로젝트에 대한 계획을 수립하고 체크하며 진행했으며, </br>
 최종적으로 **<ins>테스트케이스</ins>** 를 통해 이슈사항을 체크하여 보완하였습니다.</br></br>
 
+---
+
 ## 2. 📃 프로젝트</br>
 ### 1. JAVA jsp 활용 web 구현 (프론트엔트 / 백엔드 / 데이터베이스 연동 / 분석 기능 구현)</br>
 * **프로젝트 소개** </br>
@@ -45,6 +47,9 @@
   * **분석 결과 confusion matrix 불러오기 실패**</br>
   페이지 내에서 local 폴더 접근할 수 없는 것으로 확인</br>
   base64.getEncoder() 활용하여 href 재지정하여 해결</br></br>
+
+---
+  
 ### 2. Ultralytics YOLO 활용 object detection model 구현 (이미지 라벨링, 학습, 웹연동)</br>
 * **프로젝트 소개** </br>
 Ultralytice YOLO를 활용하여 반도체 소자 양품/불량 이미지 데이터를 학습시켜</br>
@@ -74,13 +79,24 @@ Flask 활용 업로드 기능 및 웹 분석기능 구현</br></br>
   result 저장 경로 로컬 폴더에서 가상 환경 내 폴더로 변경</br>
   plot 객체 저장 시 이미지 형태가 아닌 array 형태로 저장 확인</br>
   PIL - Image import 후 fromarray 활용하여 이미지로 변환</br></br>
+
+---
   
-  
-  
-
-
-
-
-
 ## 4. 💡 기술
+#### [기초]
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+#### [응용]
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
