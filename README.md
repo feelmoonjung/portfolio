@@ -82,7 +82,7 @@ Flask 활용 업로드 기능 및 웹 분석기능 구현</br></br>
 
 ---
   
-## 4. 💡 기술
+## 3. 💡 기술
 #### [기초]
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
