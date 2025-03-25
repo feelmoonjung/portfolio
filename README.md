@@ -1,7 +1,8 @@
 ## 1. 🖥 개발자를 꿈꾸는 정필문입니다. </br>
 ### **도전을 두려워하지 않습니다.** </br>
-6개월의 K-Digital Training 과정을 통해 </br>
-**<ins>Python</ins>, <ins>JAVA</ins>, <ins>Html</ins>, <ins>CSS</ins>, <ins>Javascript</ins>** 를 학습하였고, </br>
+데이터 분석을 위한 AI 소프트웨어 개발 과정을 이수했습니다. </br>
+**<ins>Python</ins>, <ins>JAVA</ins>, <ins>Html</ins>, <ins>CSS</ins>, <ins>Javascript</ins>**를 토대로</br>
+머신러닝, 딥러닝에 대하여 중점적으로 학습하였고, </br>
 기초를 다지기 위해 **<ins>정보처리기능사</ins>** 자격증을 취득했습니다. </br></br>
 ### **프로젝트 진행 경험이 있습니다.** </br>
 2개의 팀 프로젝트간 **<ins>요구사항정의서</ins>, <ins>기능 정의서</ins>, <ins>마일스톤</ins>, <ins>WBS</ins>** 를 작성하여 </br>
