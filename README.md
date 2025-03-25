@@ -11,9 +11,11 @@
 ---
 
 ## 2. 📃 프로젝트</br>
-### 1. JAVA jsp 활용 web 구현 (프론트엔트 / 백엔드 / 데이터베이스 연동 / 분석 기능 구현)</br>
+### 1. 데이터 분석 솔루션 웹 구현</br>
 * **프로젝트 소개** </br>
-학습한 Html, CSS, Javascript, jsp, Python 머신러닝을 주제로 하여 웹구현 프로젝트를 진행하였습니다</br>
+데이터 분석기능을 제공하는 웹사이트를 주제로 하여 프로젝트를 진행했습니다. </br>
+회원가입, 로그인, 게시판 기능 외에 데이터 분석기능을 토대로 </br>
+대시보드에 F1-score, Precition, Recall와 같은 지표와 ScreePlot을 표기합니다.</br>
 [소스코드(github)](https://github.com/feelmoonjung/Project1_java_web)</br>
 [ 결과보고서](https://github.com/feelmoonjung/portfolio/blob/main/src/project1_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pptx)</br></br>
 * **기간 : 24.08.02 ~ 24.10.11** </br>
@@ -50,10 +52,10 @@
 
 ---
   
-### 2. Ultralytics YOLO 활용 object detection model 구현 (이미지 라벨링, 학습, 웹연동)</br>
+### 2. 반도체 소자 양품/불량 Object detection model 구현</br>
 * **프로젝트 소개** </br>
 Ultralytice YOLO를 활용하여 반도체 소자 양품/불량 이미지 데이터를 학습시켜</br>
-웹에 반도체 이미지를 업로드했을때 양품/불량을 판단하는 객체탐지모델을 구현하였습니다</br>
+웹에 반도체 이미지를 업로드했을때 양품/불량을 판단하는 객체탐지모델을 구현하였습니다.</br>
 [소스코드](https://github.com/feelmoonjung/project2_ultralytics_yolo_object_detection)</br>
 [결과보고서](https://github.com/feelmoonjung/portfolio/blob/main/src/project2_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pptx)</br></br>
 * **기간 : 24.09.23 ~ 24.10.15** </br>
