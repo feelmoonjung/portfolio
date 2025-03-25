@@ -56,7 +56,7 @@
 ### 2. 반도체 소자 양품/불량 Object detection model 구현</br>
 * **프로젝트 소개** </br>
 Ultralytice YOLO를 활용하여 반도체 소자 양품/불량 이미지 데이터를 학습시켜</br>
-반도체 이미지를 업로드했을때 양품/불량을 판단하는 객체탐지모델을 구현하였습니다.</br>
+반도체 이미지를 업로드했을때 양품/불량을 판단하는 객체탐지모델을 구현했습니다.</br>
 웹 기반으로 진행하였으며, 결과와 예측 정확도를 함께 출력합니다.</br>
 [소스코드](https://github.com/feelmoonjung/project2_ultralytics_yolo_object_detection)</br>
 [결과보고서](https://github.com/feelmoonjung/portfolio/blob/main/src/project2_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pptx)</br></br>
